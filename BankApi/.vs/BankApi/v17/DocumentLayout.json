@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\controllers\\onboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\controllers\\onboardingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\onboarding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\onboarding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\onboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\onboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\bankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\bankdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\customerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\customerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\accountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\accountdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|c:\\users\\sridevi.j\\csharp learning\\codesamplescsharp-master\\bankapi\\bankapi\\bankapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E61939D-5552-458E-8B42-A5F9338A3994}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\bankapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Program.cs",
+              "RelativeDocumentMoniker": "BankApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Program.cs",
+              "RelativeToolTip": "BankApi\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAgwIgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:56:50.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BankApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BankApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:26:16.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BankApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BankApi\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAgwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:51:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnboardingController.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\OnboardingController.cs",
+              "RelativeDocumentMoniker": "BankApi\\Controllers\\OnboardingController.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\OnboardingController.cs",
+              "RelativeToolTip": "BankApi\\Controllers\\OnboardingController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:28:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "BankApi\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "BankApi\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:16:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankApi\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankApi\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAgwKwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:52:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\AuthDtos.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:38:51.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Onboarding.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Onboarding.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\Onboarding.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Onboarding.cs",
+              "RelativeToolTip": "BankApi\\Models\\Onboarding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:12:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "BankApi\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "BankApi\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:39:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BankApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BankApi\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:28:09.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\OnboardDto.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\OnboardDto.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\OnboardDto.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\OnboardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:20:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BankDto.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\BankDto.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\BankDto.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\BankDto.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\BankDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:13:21.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BranchDto.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\BranchDto.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\BranchDto.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\BranchDto.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\BranchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:38:15.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\CustomerDtos.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\CustomerDtos.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\CustomerDtos.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\CustomerDtos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:01:39.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\AccountDtos.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\AccountDtos.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\AccountDtos.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\AccountDtos.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:48:19.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\TransactionCreateDto.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\TransactionCreateDto.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\TransactionCreateDto.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\TransactionCreateDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:19:34.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\UserDtos.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\DTOs\\UserDtos.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\UserDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:20:46.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BankApi\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BankApi\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:54:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BankApi\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Services\\JwtService.cs",
+              "RelativeToolTip": "BankApi\\Services\\JwtService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:55:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Customer.cs",
+              "RelativeToolTip": "BankApi\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:28:29.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\User.cs",
+              "RelativeToolTip": "BankApi\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:47:33.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BankApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\appsettings.json",
+              "RelativeToolTip": "BankApi\\appsettings.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T08:06:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BankApi\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BankApi\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:40:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Branch.cs",
+              "RelativeToolTip": "BankApi\\Models\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:08:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Bank.cs",
+              "RelativeToolTip": "BankApi\\Models\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:31:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Account.cs",
+              "RelativeToolTip": "BankApi\\Models\\Account.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:29:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankApi\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:47:04.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BankApi",
+              "DocumentMoniker": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\BankApi.csproj",
+              "RelativeDocumentMoniker": "BankApi\\BankApi.csproj",
+              "ToolTip": "C:\\Users\\sridevi.j\\CSharp learning\\codesamplescsharp-master\\BankApi\\BankApi\\BankApi.csproj",
+              "RelativeToolTip": "BankApi\\BankApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T15:49:58.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
