@@ -1,5 +1,6 @@
 // src/components/PrivateRoute.jsx
 import { Navigate, Outlet } from "react-router-dom";
+import from "react-router-dom";
 
 const PrivateRoute = ({ roles }) => {
   const token = localStorage.getItem("token");
